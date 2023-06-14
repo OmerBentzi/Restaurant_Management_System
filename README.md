@@ -13,7 +13,7 @@
     <li><code>click</code>: A package for creating command-line interfaces.</li>
     <pre><code>pip install click</code></pre>
 php
-Copy code
+
 <li><code>patch</code>: A package for applying patches to Python objects.</li>
 <pre><code>pip install "patch==1.*"</code></pre>
 
