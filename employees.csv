@@ -1,0 +1,3 @@
+employee_id,name,email,phone,role,permission,table_numbers
+1,John Doe,john@example.com,1234567890,Manager,All Access,
+2,Jane Smith,jane@example.com,9876543210,Chef,All Access,
