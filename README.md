@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Restaurant Management System</title>
+
 </head>
 <body>
   <h1>Restaurant Management System</h1>
