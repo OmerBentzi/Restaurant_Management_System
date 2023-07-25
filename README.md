@@ -32,8 +32,7 @@ php
   <ul>
     <li><code>python main.py add_order --customer_name "John Doe" --items "Burger" "Fries"</code><br>
     Adds a new order for the customer "John Doe" with menu items "Burger" and "Fries".</li>
-css
-Copy code
+
 <li><code>python main.py modify_order --order_id 123 --items "Pizza" "Salad"</code><br>
 Modifies the menu items for the order with ID 123, replacing them with "Pizza" and "Salad".</li>
 
